@@ -5,6 +5,7 @@
 - I am experienced with Python, C, and Java
 - Currently working on improving my full stack development skills, practicing with Node.js and learning Rails
 - Former NCAA fencer with a love of biking, ultimate frisbee, and gaming
+- Currently working on adding repositories :sweat:
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
